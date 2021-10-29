@@ -4,5 +4,4 @@ public interface Greeting {
 
 	public String greet();
 
-	public void greet();
 }
