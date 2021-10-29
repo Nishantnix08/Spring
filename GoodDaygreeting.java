@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class GoodDaygreeting implements Greeting {
 	
-	public String greeting = "have a good day";
+	public String greeting = "Have a good day";
 
 	public GoodDaygreeting() {
 		super();
